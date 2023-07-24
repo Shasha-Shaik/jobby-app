@@ -1,0 +1,33 @@
+.filter-app-container {
+  font-family: Roboto;
+  padding-left: 10px;
+}
+
+.hr-line {
+  width: 100%;
+  margin-bottom: 10px;
+}
+@media screen and (min-width: 768px) {
+  .hr-line {
+    width: 100%;
+  }
+}
+
+.ul-items {
+  list-style-type: none;
+  margin-left: 7px;
+}
+.list-items {
+  margin-bottom: 8px;
+}
+.filter-heading {
+  font-size: 18px;
+  padding-bottom: 10px;
+}
+.label {
+  margin-left: 10px;
+}
+.input-type {
+  font-size: 15px;
+  cursor: pointer;
+}
